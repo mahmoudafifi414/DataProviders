@@ -31,4 +31,4 @@ Run (XDEBUG_MODE=coverage ./vendor/bin/phpunit --coverage-text)
 
 **Important Note**
 
-All the logic and tests directory in ./Package folder
+All the logic and tests directory in .src/Package folder
