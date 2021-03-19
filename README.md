@@ -14,7 +14,7 @@
   * http://localhost:8060/api/v1/users?balanceMin=10&balanceMax=100
 
 
-
+- you can navigate to http://localhost:8082 in a browser to see the redis cache data
 
 
 **How if you need to add a new Provider**
