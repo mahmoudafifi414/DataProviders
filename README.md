@@ -1,4 +1,6 @@
 **How it Work**
+- after clone go to ./src and run "composer install"
+  
 - rename .env-example to .env and you will find in it all the env variables needed and is set by me 
   
 
